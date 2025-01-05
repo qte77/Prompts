@@ -1,3 +1,3 @@
 # Quick collection of prompts
 
-Differents prompt to test pair programing and discussion with LLM.
+Different prompts to test pair programing and discussion with LLM.
